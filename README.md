@@ -1,2 +1,2 @@
-Project Name: Eay Quiz Game
+Project Name: Eay Quiz Game <br>
 A simple python quiz program that asks questions,checks answers and displays the final score.
